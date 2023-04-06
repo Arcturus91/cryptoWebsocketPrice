@@ -4,6 +4,8 @@ This app uses websockets to retrieve real-time cryptocurrency prices using the B
 
 See branch: `server-side` and `client-side` for more info.
 
+Update: For a client version in React, visit: - [Websocket React Crypto Price App](https://github.com/Arcturus91/websocket-react-crypto)
+
 ## Installation
 
 To get started with this app, simply clone the repository and install the necessary dependencies:
