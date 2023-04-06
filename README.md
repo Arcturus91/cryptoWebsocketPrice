@@ -11,8 +11,8 @@ Update: For a client version in React, visit: - [Websocket React Crypto Price Ap
 To get started with this app, simply clone the repository and install the necessary dependencies:
 
 ```
-git clone https://github.com/your-username/real-time-crypto-price-tracker.git
-cd real-time-crypto-price-tracker
+git clone https://github.com/Arcturus91/cryptoWebsocketPrice.git
+cd <fileName>
 npm install
 ```
 
